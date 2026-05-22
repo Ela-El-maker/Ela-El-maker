@@ -1,6 +1,6 @@
 <div align="center">
 
-# Felo Ela
+# Ela
 
 ### Systems developer focused on C/C++, Python, low-level programming, backend tooling, and reliable software design.
 
