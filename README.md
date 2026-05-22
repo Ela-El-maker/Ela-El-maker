@@ -19,49 +19,6 @@
 
 ---
 
-## About me
-
-I am a systems developer focused on understanding how software works beneath the surface.
-
-My work is centered around **C/C++**, **Python**, **low-level programming**, **backend tooling**, **automation**, and **software architecture**. I care about how programs are structured, how systems behave, how code scales, and how reliable software is built from strong foundations.
-
-I am not interested in writing code that only works once. I care about software that is clear, maintainable, efficient, documented, and engineered with intention.
-
-```text
-Foundation first.
-Systems thinking always.
-Build small. Understand deeply. Improve continuously.
-```
-
----
-
-## Now building
-
-```text
-C/C++ foundation       -> algorithms, memory, system behavior, performance
-Python tooling         -> automation, scripts, CLIs, practical utilities
-Backend systems        -> APIs, services, data flow, reliability
-Linux / systems labs   -> files, processes, networking, OS concepts
-Documentation          -> READMEs, architecture notes, design decisions
-```
-
----
-
-## Engineering direction
-
-| Area | Focus |
-| --- | --- |
-| **C / C++** | Low-level programming, memory, algorithms, system behavior, performance |
-| **Python** | Automation, scripting, backend utilities, practical tooling |
-| **Systems programming** | OS concepts, files, processes, networking, runtime behavior |
-| **Backend engineering** | APIs, services, data flow, clean application structure |
-| **Software architecture** | Separation of concerns, maintainability, project organization |
-| **Developer tooling** | CLIs, scripts, workflows, automation, productivity tools |
-| **Security mindset** | Defensive thinking, system awareness, infrastructure fundamentals |
-| **Interface design** | Clean user-facing surfaces for tools, dashboards, and systems |
-
----
-
 ## Core stack
 
 <div align="center">
@@ -103,94 +60,6 @@ Documentation          -> READMEs, architecture notes, design decisions
 ![Documentation](https://img.shields.io/badge/Documentation-374151?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 </div>
-
----
-
-## Systems view
-
-I like thinking about software in layers.
-
-```text
-Problem
-  ↓
-Interface / CLI / API
-  ↓
-Application Logic
-  ↓
-Data + State
-  ↓
-Runtime Behavior
-  ↓
-OS: Files • Processes • Networking
-  ↓
-Hardware: Memory • CPU • I/O
-```
-
-Good software is not only about features. It is about how the pieces connect, how failures are handled, how the codebase grows, and how easily another developer can understand the system.
-
----
-
-## How I build
-
-```text
-Understand -> Design -> Build -> Test -> Refactor -> Document -> Improve
-```
-
-My development process is simple and disciplined:
-
-- Understand the problem before writing code
-- Keep the first version small and working
-- Structure the project so it can grow
-- Write code that is readable before it is clever
-- Test behavior, edge cases, and failure paths
-- Refactor when the design becomes messy
-- Document the purpose, setup, usage, and decisions
-- Improve through iteration
-
----
-
-## Engineering principles
-
-```text
-Clarity over cleverness
-Structure before scale
-Reliability before complexity
-Documentation as part of the build
-Small systems, deeply understood
-```
-
-A project is not finished just because it runs. It becomes stronger when it is understandable, maintainable, documented, and easy to improve.
-
----
-
-## Featured project direction
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>C/C++ Foundation</h3>
-      <p>Algorithms, memory discipline, low-level concepts, and systems-oriented practice.</p>
-      <p><strong>Focus:</strong> C, C++, algorithms, performance, correctness</p>
-    </td>
-    <td width="50%">
-      <h3>Python Tooling</h3>
-      <p>Automation scripts, command-line tools, backend utilities, and practical workflows.</p>
-      <p><strong>Focus:</strong> Python, scripting, automation, CLI tools</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Backend Systems</h3>
-      <p>APIs, services, data flow, background jobs, queues, and reliable system structure.</p>
-      <p><strong>Focus:</strong> backend logic, architecture, reliability</p>
-    </td>
-    <td width="50%">
-      <h3>Systems Labs</h3>
-      <p>Linux, networking, operating system concepts, security fundamentals, and infrastructure thinking.</p>
-      <p><strong>Focus:</strong> Linux, OS concepts, networking, security mindset</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -243,32 +112,6 @@ A project is not finished just because it runs. It becomes stronger when it is u
 </table>
 
 </div>
-
----
-
-## Repository standards
-
-Every serious project should move toward:
-
-- Clear purpose and problem statement
-- Clean folder structure
-- Setup and usage instructions
-- Screenshots, terminal examples, or demo notes where useful
-- Architecture notes and design decisions
-- Known limitations and future improvements
-- Small, meaningful commits
-- Documentation that helps another developer understand the system quickly
-
----
-
-## What you will find here
-
-- C/C++ practice and systems-focused learning
-- Python tools, scripts, and automation experiments
-- Backend and architecture-oriented projects
-- Linux, systems, and security learning labs
-- Technical notes, roadmaps, and engineering documentation
-- Projects improved over time through refactoring and better structure
 
 ---
 
